@@ -1,0 +1,255 @@
+<resources>
+    <string name="app_name">BoTCRandomizer</string>
+
+    <string name="text_character_with_player_number">%1$s #%2$s</string>
+    <string name="text_start_a_session">Start a Session</string>
+    <string name="text_pick_a_script">Pick a script</string>
+    <string name="text_app_copyright">App made by Hyunje. Supported by Labor &amp; Play Studio. Unofficial implementation of the board game Blood on The Clocktower</string>
+    <string name="text_select_at_least_one">Select at least one character to proceed</string>
+    <string name="text_townsfolk">Townsfolk</string>
+    <string name="text_outsider">Outsider</string>
+    <string name="text_minion">Minion</string>
+    <string name="text_demon">Demon</string>
+    <string name="text_warning">*WARNING*</string>
+    <string name="text_you_are_the_character">You are The %1$s</string>
+    <string name="text_hi_player_number">Hi Player #%1$s</string>
+    <string name="text_show_summary">Show Summary</string>
+    <string name="text_these_are_the_selected_characters">These are the selected Characters</string>
+    <string name="text_whenever_youre_ready">Whenever you\'re ready to begin the game</string>
+    <string name="text_begin_character_distribution">Begin Character Distribution</string>
+    <string name="text_distribution_finished">Distribution has been finished, Pass the phone to the Story teller.</string>
+    <string name="text_character_distribution_summary">Character Distribution Summary</string>
+    <string name="text_show_your_character">Show your Character</string>
+    <string name="text_hide_your_character">Hide your Character</string>
+    <string name="text_make_sure_to_press_button">Make sure that you press the button below to hide your character before giving the phone to the next player</string>
+
+    <!-- <Trouble Brewing> -->
+    <string name="script_trouble_brewing_name">Trouble Brewing</string>
+
+    <string name="character_washerwoman_name">Washerwoman</string>
+    <string name="character_washerwoman_description">You start knowing that 1 of 2 players is a particular Townsfolk.</string>
+
+    <string name="character_librarian_name">Librarian</string>
+    <string name="character_librarian_description">You start knowing that 1 of 2 players is a particular Outsider. (Or that zero are in play.)</string>
+
+    <string name="character_investigator_name">Investigator</string>
+    <string name="character_investigator_description">You start knowing that 1 of 2 players is a particular Minion.</string>
+
+    <string name="character_chef_name">Chef</string>
+    <string name="character_chef_description">You start knowing how many pairs of evil players there are.</string>
+
+    <string name="character_empath_name">Empath</string>
+    <string name="character_empath_description">Each night, you learn how many of your 2 alive neighbors are evil.</string>
+
+    <string name="character_fortune_teller_name">Fortune Teller</string>
+    <string name="character_fortune_teller_description">Each night, choose 2 players: you learn if either is a Demon. There is a good player that registers as a Demon to you.</string>
+
+    <string name="character_undertaker_name">Undertaker</string>
+    <string name="character_undertaker_description">Each night*, you learn which character died by execution today.</string>
+
+    <string name="character_monk_name">Monk</string>
+    <string name="character_monk_description">Each night*, choose a player (not yourself): they are safe from the Demon tonight.</string>
+
+    <string name="character_raven_keeper_name">Raven Keeper</string>
+    <string name="character_raven_keeper_description">If you die at night, you are woken to choose a player: you learn their character.</string>
+
+    <string name="character_virgin_name">Virgin</string>
+    <string name="character_virgin_description">The 1st time you are nominated, if the nominator is a Townsfolk, they are executed immediately.</string>
+
+    <string name="character_slayer_name">Slayer</string>
+    <string name="character_slayer_description">Once per game, during the day, publicly choose a player: if they are the Demon, they die.</string>
+
+    <string name="character_soldier_name">Soldier</string>
+    <string name="character_soldier_description">You are safe from the Demon.</string>
+
+    <string name="character_mayor_name">Mayor</string>
+    <string name="character_mayor_description">If only 3 players live &amp; no execution occurs, your team wins. If you die at night, another player might die instead.</string>
+
+    <string name="character_butler_name">Butler</string>
+    <string name="character_butler_description">Each night, choose a player (not yourself): tomorrow, you may only vote if they are voting too.</string>
+
+    <string name="character_saint_name">Saint</string>
+    <string name="character_saint_description">If you die by execution, your team loses.</string>
+
+    <string name="character_recluse_name">Recluse</string>
+    <string name="character_recluse_description">You might register as evil &amp; as a Minion or Demon, even if dead.</string>
+
+    <string name="character_drunk_name">Drunk</string>
+    <string name="character_drunk_description">You do not know you are the Drunk. You think you are a Townsfolk character, but you are not.</string>
+
+    <string name="character_poisoner_name">Poisoner</string>
+    <string name="character_poisoner_description">Each night, choose a player: they are poisoned tonight and tomorrow day.</string>
+
+    <string name="character_spy_name">Spy</string>
+    <string name="character_spy_description">Each night, you see the Grimoire. You might register as good &amp; as a Townsfolk or Outsider, even if dead.</string>
+
+    <string name="character_baron_name">Baron</string>
+    <string name="character_baron_description">There are extra Outsiders in play. [+2 Outsiders]</string>
+
+    <string name="character_scarlet_woman_name">Scarlet Woman</string>
+    <string name="character_scarlet_woman_description">If there are 5 or more players alive &amp; the Demon dies, you become the Demon. (Travellers don\'t count)</string>
+
+    <string name="character_imp_name">Imp</string>
+    <string name="character_imp_description">Each night*, choose a player: they die. If you kill yourself this way, a Minion becomes the Imp.</string>
+
+    <!-- </Trouble Brewing> -->
+
+    <!-- <Bad Moon Rising> -->
+    <string name="script_bad_moon_rising_name">Bad Moon Rising</string>
+
+    <string name="character_grandmother_name">Grandmother</string>
+    <string name="character_grandmother_description">You start knowing a good player &amp; their character. If the Demon kills them, you die too.</string>
+
+    <string name="character_sailor_name">Sailor</string>
+    <string name="character_sailor_description">Each night, choose an alive player: either you or they are drunk until dusk. You can\'t die.</string>
+
+    <string name="character_chambermaid_name">Chambermaid</string>
+    <string name="character_chambermaid_description">Each night, choose 2 alive players (not yourself): you learn how many woke tonight due to their ability.</string>
+
+    <string name="character_exorcist_name">Exorcist</string>
+    <string name="character_exorcist_description">Each night*, choose a player (different to last night): the Demon, if chosen, learns who you are then doesn\'t wake tonight.</string>
+
+    <string name="character_innkeeper_name">Innkeeper</string>
+    <string name="character_innkeeper_description">Each night*, choose 2 players: they can\'t die tonight, but 1 is drunk until dusk.</string>
+
+    <string name="character_gambler_name">Gambler</string>
+    <string name="character_gambler_description">Each night*, choose a player &amp; guess their character: if you guess wrong, you die.</string>
+
+    <string name="character_gossip_name">Gossip</string>
+    <string name="character_gossip_description">Each day, you may make a public statement. Tonight, if it was true, a player dies.</string>
+
+    <string name="character_courtier_name">Courtier</string>
+    <string name="character_courtier_description">Once per game, at night, choose a character: they are drunk for 3 nights &amp; 3 days.</string>
+
+    <string name="character_professor_name">Professor</string>
+    <string name="character_professor_description">Once per game, at night*, choose a dead player: if they are a Townsfolk, they are resurrected.</string>
+
+    <string name="character_minstrel_name">Minstrel</string>
+    <string name="character_minstrel_description">When a Minion dies by execution, all other players (except Travellers) are drunk until dusk tomorrow.</string>
+
+    <string name="character_tea_lady_name">Tea Lady</string>
+    <string name="character_tea_lady_description">If both your alive neighbors are good, they can\'t die.</string>
+
+    <string name="character_pacifist_name">Pacifist</string>
+    <string name="character_pacifist_description">Executed good players might not die</string>
+
+    <string name="character_fool_name">Fool</string>
+    <string name="character_fool_description">The first time you die, you don\'t.</string>
+
+    <string name="character_goon_name">Goon</string>
+    <string name="character_goon_description">Each night, the 1st player to choose you with their ability is drunk until dusk. You become their alignment.</string>
+
+    <string name="character_lunatic_name">Lunatic</string>
+    <string name="character_lunatic_description">You think you are a Demon, but you are not. The Demon knows who you are &amp; who you choose at night.</string>
+
+    <string name="character_tinker_name">Tinker</string>
+    <string name="character_tinker_description">You might die at any time.</string>
+
+    <string name="character_moon_child_name">Moonchild</string>
+    <string name="character_moon_child_description">When you learn that you died, publicly choose 1 alive player. Tonight, if it was a good player, they die.</string>
+
+    <string name="character_godfather_name">Godfather</string>
+    <string name="character_godfather_description">You start knowing which Outsiders are in play. If 1 died today, choose a player tonight: they die. [-1 or +1 Outsider]</string>
+
+    <string name="character_devils_advocate_name">Devil\'s Advocate</string>
+    <string name="character_devils_advocate_description">Each night, choose a living player (different to last night): if executed tomorrow, they don\'t die.</string>
+
+    <string name="character_assassin_name">Assassin</string>
+    <string name="character_assassin_description">Once per game, at night*, choose a player: they die, even if for some reason they could not.</string>
+
+    <string name="character_mastermind_name">Mastermind</string>
+    <string name="character_mastermind_description">If the Demon dies by execution (ending the game), play for 1 more day. If a player is then executed, their team loses.</string>
+
+    <string name="character_zombuul_name">Zombuul</string>
+    <string name="character_zombuul_description">Each night*, if no-one died today, choose a player: they die. The 1st time you die, you live but register as dead.</string>
+
+    <string name="character_pukka_name">Pukka</string>
+    <string name="character_pukka_description">Each night, choose a player: they are poisoned. The previously poisoned player dies then becomes healthy.</string>
+
+    <string name="character_shabaloth_name">Shabaloth</string>
+    <string name="character_shabaloth_description">Each night*, choose 2 players: they die. A dead player you chose last night might be regurgitated.</string>
+
+    <string name="character_po_name">Po</string>
+    <string name="character_po_description">Each night*, you may choose a player: they die. If your last choice was no-one, choose 3 players tonight.</string>
+
+    <!-- </Bad Moon Rising> -->
+
+    <!-- <Sects & Violets> -->
+    <string name="script_sects_violets_name">Sects &amp; Violets</string>
+
+    <string name="character_clockmaker_name">Clockmaker</string>
+    <string name="character_clockmaker_description">You start knowing how many steps from the Demon to its nearest Minion.</string>
+
+    <string name="character_dreamer_name">Dreamer</string>
+    <string name="character_dreamer_description">Each night, choose a player (not yourself or Travellers): you learn 1 good &amp; 1 evil character, 1 of which is correct.</string>
+
+    <string name="character_snake_charmer_name">Snake Charmer</string>
+    <string name="character_snake_charmer_description">Each night, choose an alive player: a chosen Demon swaps characters &amp; alignments with you &amp; is then poisoned.</string>
+
+    <string name="character_mathematician_name">Mathematician</string>
+    <string name="character_mathematician_description">Each night, you learn how many player\'s abilities worked abnormally (since dawn) due to another character\'s ability.</string>
+
+    <string name="character_flowergirl_name">Flowergirl</string>
+    <string name="character_flowergirl_description">Each night*, you learn if a Demon voted today.</string>
+
+    <string name="character_town_crier_name">Town Crier</string>
+    <string name="character_town_crier_description">Each night*, you learn if a Minion nominated today.</string>
+
+    <string name="character_oracle_name">Oracle</string>
+    <string name="character_oracle_description">Each night*, you learn how many dead players are evil.</string>
+
+    <string name="character_savant_name">Savant</string>
+    <string name="character_savant_description">Each day, you may visit the Storyteller to learn 2 things in private: 1 is true &amp; 1 is false.</string>
+
+    <string name="character_seamstress_name">Seamstress</string>
+    <string name="character_seamstress_description">Once per game, at night, choose 2 players (not yourself): you learn if they are the same alignment.</string>
+
+    <string name="character_philosopher_name">Philosopher</string>
+    <string name="character_philosopher_description">Once per game, at night, choose a good character: gain that ability. If this character is in play, they are drunk.</string>
+
+    <string name="character_artist_name">Artist</string>
+    <string name="character_artist_description">Once per game, during the day, privately ask the Storyteller any yes/no question.</string>
+
+    <string name="character_juggler_name">Juggler</string>
+    <string name="character_juggler_description">On your 1st day, publicly guess up to 5 player\'s characters. That night, you learn how many you got correct.</string>
+
+    <string name="character_sage_name">Sage</string>
+    <string name="character_sage_description">If the Demon kills you, you learn that it is 1 of 2 players.</string>
+
+    <string name="character_mutant_name">Mutant</string>
+    <string name="character_mutant_description">If you are "mad" about being an Outsider, you might be executed.</string>
+
+    <string name="character_sweetheart_name">Sweetheart</string>
+    <string name="character_sweetheart_description">When you die, 1 player is drunk from now on.</string>
+
+    <string name="character_barber_name">Barber</string>
+    <string name="character_barber_description">If you died today or tonight, the Demon may choose 2 players (not another Demon) to swap characters.</string>
+
+    <string name="character_klutz_name">Klutz</string>
+    <string name="character_klutz_description">When you learn that you died, publicly choose 1 alive player: if they are evil, your team loses.</string>
+
+    <string name="character_evil_twin_name">Evil Twin</string>
+    <string name="character_evil_twin_description">You &amp; an opposing player know each other. If the good player is executed, evil wins. Good can\'t win if you both live.</string>
+
+    <string name="character_witch_name">Witch</string>
+    <string name="character_witch_description">Each night, choose a player: if they nominate tomorrow, they die. If just 3 players live, you lose this ability.</string>
+
+    <string name="character_cerenovus_name">Cerenovus</string>
+    <string name="character_cerenovus_description">Each night, choose a player &amp; a good character: they are "mad" they are this character tomorrow, or might be executed.</string>
+
+    <string name="character_pit_hag_name">Pit Hag</string>
+    <string name="character_pit_hag_description">Each night*, choose a player &amp; a character they become (if not in play). If a Demon is made, deaths tonight are arbitrary.</string>
+
+    <string name="character_fang_gu_name">Fang Gu</string>
+    <string name="character_fang_gu_description">Each night*, choose a player: they die. The 1st Outsider this kills becomes an evil Fang Gu &amp; you die instead. [+1 Outsider]</string>
+
+    <string name="character_vigormortis_name">Vigormortis</string>
+    <string name="character_vigormortis_description">Each night*, choose a player: they die. Minions you kill keep their ability &amp; poison 1 Townsfolk neighbor. [-1 Outsider]</string>
+
+    <string name="character_no_dashii_name">No Dashii</string>
+    <string name="character_no_dashii_description">Each night*, choose a player: they die. Your 2 Townsfolk neighbors are poisoned.</string>
+
+    <string name="character_vortox_name">Vortox</string>
+    <string name="character_vortox_description">Each night*, choose a player; they die. Townsfolk abilities yield false info. Each day, if no-one is executed, evil wins.</string>
+    <!-- </Sects & Violets> -->
+</resources>
