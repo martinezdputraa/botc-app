@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">BoTCRandomizer</string>
+    <string name="app_name">Blood on The Clocktower</string>
 
     <string name="text_character_with_player_number">%1$s #%2$s</string>
     <string name="text_start_a_session">Start a Session</string>
